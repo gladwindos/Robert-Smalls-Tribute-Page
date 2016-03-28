@@ -1,0 +1,24 @@
+#main {
+  background-color: #EEE;
+  margin-top: 5%;
+  padding-bottom: 2%
+}
+
+#main div {
+  margin: 0% 5% 0% 5%;
+}
+
+#tab-div li a {
+  color: inherit;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.tab-info {
+  display: none;
+  padding: 1%;
+}
+
+.current {
+  display: inherit;
+}
